@@ -621,5 +621,7 @@
 
      Jung mentioned the concept again in his commentary to Wilhelm’s translation of “The Secret of the Golden Flower”. He concluded that “the causality principle” cannot explain “psychic parallelisms” that must somehow be connected but are not causally related and equated synchronicity with the Chinese Tao. Jung would write about this concept again, and when he did, his focus would shift from the empirical and phenomenological aspects of synchronistic phenomena to the ontological and archetypal nature of such events. Pauli thought that the probabilistic nature of quantum theory and the Uncertainty Principle offered the possibility of discovering something beyond the mind-matter gap which transformed Jung’s understanding of synchronicity. As a result of his interaction with Pauli, Jung gradually came to see this non-causal connecting principle as an explanatory theory must be seen in combination with causality to lead to a better understanding reality, rather than having only a subjective meaning.
         
+        Synchronicity is the coming together of inner and outer events in a way that cannot be explained by cause and effect and that is meaningful to the observer.
+         ~ Carl Jung
    ## Flores de Bach
       * http://www.institutobach.com.ar/cursos/category/las-38-flores/page/3/
