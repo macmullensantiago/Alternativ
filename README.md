@@ -623,5 +623,13 @@
         
         Synchronicity is the coming together of inner and outer events in a way that cannot be explained by cause and effect and that is meaningful to the observer.
          ~ Carl Jung
+         
+         “temporally coincident occurrences of acausal events.”
+         
+         Events that happen which appear at first to be coincidence, but are later found to be causally related are termed as “incoincident”.
+         
+         Subjective experience that coincidences between events in their mind and the outside world may be causally unrelated to each other yet have some other unknown connection.
+         
+          The notion of synchronicity shares with modern physics the idea that under certain conditions, the laws governing the interactions of space and time can no longer be understood according to the principle of causality.
    ## Flores de Bach
       * http://www.institutobach.com.ar/cursos/category/las-38-flores/page/3/
