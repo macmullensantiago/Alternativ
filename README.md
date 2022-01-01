@@ -631,5 +631,13 @@
          Subjective experience that coincidences between events in their mind and the outside world may be causally unrelated to each other yet have some other unknown connection.
          
           The notion of synchronicity shares with modern physics the idea that under certain conditions, the laws governing the interactions of space and time can no longer be understood according to the principle of causality.
+          
+          En 1952, en
+     el contexto de su colaboración con el premio Nobel de Física Wolfgang Pauli,
+     Jung sostuvo que existía un principio de ordenación acausal que subyace a
+     esas coincidencias significativas’, que él denominó sincronicidad.247 Afirmó
+     que, bajo ciertas circunstancias, la constelación de un arquetipo conducía a
+     una relativización del tiempo y el espacio, lo que explicaba cómo podían ocurrir
+     tales eventos.
    ## Flores de Bach
       * http://www.institutobach.com.ar/cursos/category/las-38-flores/page/3/
